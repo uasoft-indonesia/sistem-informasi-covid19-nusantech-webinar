@@ -1,6 +1,6 @@
 # sistem_covid19
 
-> My doozie Nuxt.js project
+> Praktek belajar penggunaan nuxt js untuk membuat aplikasi sistem informasi covid19 di Nusantech webinar
 
 ## Build Setup
 
